@@ -68,6 +68,10 @@ function using(name, values, func){
 
 See [demo hosted on GitHub](http://jphpsf.github.com/jasmine-data-provider/)
 
+## Blog post
+
+See this [blog post](http://blog.jphpsf.com/2012/08/30/drying-up-your-javascript-jasmine-tests/) for detailled explanations.
+
 ## License
 
 WTFPL
